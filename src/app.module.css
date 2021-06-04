@@ -1,0 +1,51 @@
+.container {
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
+.items {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+.item {
+    margin: 30px;
+    border-radius:5px ;
+}
+.itemsa {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sub {
+    background-color: black;
+    color: white;
+}
+.itema {
+    margin: 10px;
+    border-radius: 5px;
+}
+.partner {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    
+}
